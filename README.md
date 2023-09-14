@@ -7,7 +7,7 @@
 
 <h3 align="left">🧚🏽‍♀️ About me:</h3>
 - 💻 Im a passionate coder with a creative soul<br>
-- 💫 I’m currently learning Java III and Figma <br>
+- 💫 I’m currently learning Figma <br>
 - 📫 How to reach me hussainarusa18@gmail.com <br>
 
 <h3 align="left">Connect with me:</h3>
