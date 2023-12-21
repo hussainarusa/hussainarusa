@@ -6,8 +6,8 @@
 <h3 align="center">💖 A Fullstack developer with a passion for <i>FrontEnd</i> and <i>Design</i> 💖</h3>
 
 <h3 align="left">🧚🏽‍♀️ About me:</h3>
-- 💻 Im a passionate coder with a creative soul<br>
-- 💫 I’m currently learning Figma <br>
+- 💻 I am a passionate coder with a creative soul<br>
+- 💫 I’m currently learning React <br>
 - 📫 How to reach me hussainarusa18@gmail.com <br>
 
 <h3 align="left">Connect with me:</h3>
